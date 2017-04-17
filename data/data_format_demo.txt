@@ -1,0 +1,2 @@
+# time ax ay az gx gy gz
+0.0 0.0 0.0 9.8 0.0 0.0 0.0
