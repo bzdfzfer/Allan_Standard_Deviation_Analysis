@@ -16,5 +16,6 @@ Two functions are offered to:
 	(Warning, loitor_mpu6050's gyro output unit is degree/s while the Static_3DM's is rad/s, please be careful when dealing with the unit transformation.)
 	
 ## data format for each line in the .mat file:
+
 	timestamp ax ay az gx gy gz 
 
