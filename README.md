@@ -4,11 +4,12 @@ Two functions are offered to:
 
 	calculate the allan variance(allan.m) 
 and 
+
 	get the relevant stochastic noise process parameters(curvefitting.m).
 	
 # Usage:
 	
-refer to calib_3DM_gyro.m or any other calib files.
+Please refer to calib_6050_gyro.m or any other calib files.
 
 # Note:
 the dataset is too big to upload so one can download in the following links:
